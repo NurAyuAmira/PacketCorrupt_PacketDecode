@@ -4,10 +4,6 @@
 
 This project involves the development of a tool in C++ designed to intentionally corrupt packet fields within network traffic. The primary goal is to analyze the robustness of network security systems by manipulating various fields in IP packets, such as TTL, protocol, and source/destination addresses. This allows us to test how different operating systems respond to malformed packets.
 
-## Project Duration
-
-**Dec 2023 - Jan 2024**
-
 ## Features
 
 - **Packet Corruption:** The tool corrupts packet fields intentionally to simulate different network conditions and analyze responses.
